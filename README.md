@@ -26,5 +26,5 @@ A responsive web application built with HTML, CSS, and JavaScript to display inf
 
 This project is hosted using GitHub Pages.  
 Visit the live site at:  
-[**https://yourusername.github.io/kantopokedex/** ](https://draper1252.github.io/Kanto-pokedex/)
+[**https://draper1252.github.io/Kanto-pokedex** ](https://draper1252.github.io/Kanto-pokedex/)
 
